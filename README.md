@@ -1,2 +1,2 @@
-# Simple-Drum-Kit-Udemy-Course
-see here https://leonardpepa.github.io/Simple-Drum-Kit-Udemy-Course/
+## Simple-Drum-Kit-Udemy-Course
+## live: https://leonardpepa.github.io/Simple-Drum-Kit-Udemy-Course/
